@@ -1,0 +1,42 @@
+.allStyle {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.headerStyle {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  font-size: 80px;
+}
+
+.tableStyle {
+  /* color: white; */
+  font-size: 80px;
+  margin: auto;
+  padding: 20px;
+}
+
+.tableItem {
+  font-family: 'Roboto', sans-serif;
+  border-style: solid;
+  border-color: #F1F2EB;
+  background-color: #1d99f3;
+  width: 150px;
+  height: 150px;
+  border-radius: 15%;
+}
+
+.buttonStyle {
+  /* border-style: none; */
+  /* max-width: 50px;
+  max-height: 50px; */
+background-color: #F4FAFF;
+border-style: none;
+}
+
+
+.counterStyle {
+  font-size: 200%;
+  font-family: 'Roboto', sans-serif;
+}
